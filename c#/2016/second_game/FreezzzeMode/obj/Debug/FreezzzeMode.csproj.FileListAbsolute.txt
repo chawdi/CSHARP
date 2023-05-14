@@ -1,0 +1,37 @@
+D:\Danya\Юниум\Курс информатики\FreezzzeMode\FreezzzeMode\FreezzzeMode\bin\Debug\FreezzzeMode.exe.config
+D:\Danya\Юниум\Курс информатики\FreezzzeMode\FreezzzeMode\FreezzzeMode\bin\Debug\FreezzzeMode.exe
+D:\Danya\Юниум\Курс информатики\FreezzzeMode\FreezzzeMode\FreezzzeMode\bin\Debug\FreezzzeMode.pdb
+D:\Danya\Юниум\Курс информатики\FreezzzeMode\FreezzzeMode\FreezzzeMode\bin\Debug\mscorlib.dll
+D:\Danya\Юниум\Курс информатики\FreezzzeMode\FreezzzeMode\FreezzzeMode\bin\Debug\ru\mscorlib.resources.dll
+D:\Danya\Юниум\Курс информатики\FreezzzeMode\FreezzzeMode\FreezzzeMode\bin\Debug\normidna.nlp
+D:\Danya\Юниум\Курс информатики\FreezzzeMode\FreezzzeMode\FreezzzeMode\bin\Debug\normnfc.nlp
+D:\Danya\Юниум\Курс информатики\FreezzzeMode\FreezzzeMode\FreezzzeMode\bin\Debug\normnfd.nlp
+D:\Danya\Юниум\Курс информатики\FreezzzeMode\FreezzzeMode\FreezzzeMode\bin\Debug\normnfkc.nlp
+D:\Danya\Юниум\Курс информатики\FreezzzeMode\FreezzzeMode\FreezzzeMode\bin\Debug\normnfkd.nlp
+D:\Danya\Юниум\Курс информатики\FreezzzeMode\FreezzzeMode\FreezzzeMode\obj\Debug\FreezzzeMode.csprojResolveAssemblyReference.cache
+D:\Danya\Юниум\Курс информатики\FreezzzeMode\FreezzzeMode\FreezzzeMode\obj\Debug\FreezzzeMode.Form2.resources
+D:\Danya\Юниум\Курс информатики\FreezzzeMode\FreezzzeMode\FreezzzeMode\obj\Debug\FreezzzeMode.Form1.resources
+D:\Danya\Юниум\Курс информатики\FreezzzeMode\FreezzzeMode\FreezzzeMode\obj\Debug\FreezzzeMode.Form3.resources
+D:\Danya\Юниум\Курс информатики\FreezzzeMode\FreezzzeMode\FreezzzeMode\obj\Debug\FreezzzeMode.Form4.resources
+D:\Danya\Юниум\Курс информатики\FreezzzeMode\FreezzzeMode\FreezzzeMode\obj\Debug\FreezzzeMode.Properties.Resources.resources
+D:\Danya\Юниум\Курс информатики\FreezzzeMode\FreezzzeMode\FreezzzeMode\obj\Debug\FreezzzeMode.csproj.GenerateResource.Cache
+D:\Danya\Юниум\Курс информатики\FreezzzeMode\FreezzzeMode\FreezzzeMode\obj\Debug\FreezzzeMode.exe
+D:\Danya\Юниум\Курс информатики\FreezzzeMode\FreezzzeMode\FreezzzeMode\obj\Debug\FreezzzeMode.pdb
+C:\Users\MrAla\Desktop\FreezzzeMode\FreezzzeMode\bin\Debug\FreezzzeMode.exe.config
+C:\Users\MrAla\Desktop\FreezzzeMode\FreezzzeMode\obj\Debug\FreezzzeMode.exe
+C:\Users\MrAla\Desktop\FreezzzeMode\FreezzzeMode\obj\Debug\FreezzzeMode.pdb
+C:\Users\MrAla\Desktop\FreezzzeMode\FreezzzeMode\bin\Debug\FreezzzeMode.exe
+C:\Users\MrAla\Desktop\FreezzzeMode\FreezzzeMode\bin\Debug\FreezzzeMode.pdb
+C:\Users\MrAla\Desktop\FreezzzeMode\FreezzzeMode\obj\Debug\FreezzzeMode.csprojResolveAssemblyReference.cache
+C:\Users\MrAla\Desktop\FreezzzeMode\FreezzzeMode\obj\Debug\FreezzzeMode.Properties.Resources.resources
+C:\Users\MrAla\Desktop\FreezzzeMode\FreezzzeMode\obj\Debug\FreezzzeMode.csproj.GenerateResource.Cache
+C:\Users\MrAla\Desktop\FreezzzeMode\FreezzzeMode\obj\Debug\FreezzzeMode.Game.resources
+C:\Users\MrAla\Desktop\FreezzzeMode\FreezzzeMode\obj\Debug\FreezzzeMode.MainMenu.resources
+C:\Users\MrAla\Desktop\FreezzzeMode\FreezzzeMode\obj\Debug\FreezzzeMode.Rules.resources
+C:\Users\MrAla\Desktop\FreezzzeMode\FreezzzeMode\obj\Debug\FreezzzeMode.Score.resources
+C:\Users\MrAla\Desktop\проги\FreezzzeMode\FreezzzeMode\bin\Debug\FreezzzeMode.exe.config
+C:\Users\MrAla\Desktop\проги\FreezzzeMode\FreezzzeMode\obj\Debug\FreezzzeMode.exe
+C:\Users\MrAla\Desktop\проги\FreezzzeMode\FreezzzeMode\obj\Debug\FreezzzeMode.pdb
+F:\проги\FreezzzeMode\FreezzzeMode\bin\Debug\FreezzzeMode.exe.config
+F:\проги\FreezzzeMode\FreezzzeMode\obj\Debug\FreezzzeMode.exe
+F:\проги\FreezzzeMode\FreezzzeMode\obj\Debug\FreezzzeMode.pdb
